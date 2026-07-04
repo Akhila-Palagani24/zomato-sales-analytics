@@ -150,18 +150,22 @@ For Power BI: open Power BI Desktop and follow `powerbi/POWERBI_GUIDE.md`.
 </table>
 ---
 
-## 👩‍💻 About the Author
+---
 
-**Akhila Palagani**  
-B.Tech in Computer Science and Engineering | Aspiring Data Analyst & Software Developer
+<div align="center">
 
-This project was developed as part of my learning journey to apply data analytics, SQL, Python, Power BI, and machine learning concepts to solve real-world business problems. I am continuously exploring modern data engineering and analytics technologies to build practical, industry-ready solutions.
+## 👩‍💻 Developed by Akhila Palagani
 
-<p align="center">
+**B.Tech Computer Science & Engineering Student**
+**Aspiring Data Analyst | Data Engineer | Software Developer**
+
+This project demonstrates an end-to-end data analytics workflow, covering data preprocessing, exploratory data analysis, SQL-based business insights, interactive Power BI dashboards, and machine learning for revenue forecasting. It reflects my passion for solving real-world business problems using data and modern analytics technologies.
+
+<p>
   <a href="https://github.com/Akhila-Palagani24">GitHub</a> •
-  <a href="https://www.linkedin.com/in/palagani-akhila/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/akhila-palagani-52b749321/">LinkedIn</a>
 </p>
 
-<p align="center">
-⭐ If you found this project helpful, consider giving it a star!
-</p>
+⭐ If you found this project useful, consider giving it a star!
+
+</div>
